@@ -1,0 +1,10 @@
+{
+  "token": "{{HF_TOKEN}}",
+  "models": [
+    {
+      "name": "hieupth/triton.viencoder",
+      "ref": "main",
+      "token": "{{HF_TOKEN_1}}"
+    }
+  ]
+}
